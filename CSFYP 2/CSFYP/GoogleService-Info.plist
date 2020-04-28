@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>203107467939-rgnff5lpjak60p5ij4hi3fjslv1cslke.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.203107467939-rgnff5lpjak60p5ij4hi3fjslv1cslke</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDgQzu1hNXjuxkPkt9BTldxKDC9gQsZTVw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>203107467939</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>HYY.CSFYP</string>
+	<key>PROJECT_ID</key>
+	<string>fyptest-f6ba5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fyptest-f6ba5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:203107467939:ios:ebafbc554abacd18f1f516</string>
+	<key>DATABASE_URL</key>
+	<string>https://fyptest-f6ba5.firebaseio.com</string>
+</dict>
+</plist>
