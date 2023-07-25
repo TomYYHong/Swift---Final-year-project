@@ -29,3 +29,19 @@
 ![test interface2](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/07bea462-ea1f-406b-a198-ac7b3112e476)
 Saved records can be found in this interface
 ![test interface3](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/1e858b46-fe30-450b-8688-a9ea23564173)
+Provide self-help videos for user watch, once admin update database video records, user refresh the application will see the update immediately 
+![video interface](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/481a1f4e-1d3e-45e4-ae4b-cb07ba2b3c62)
+![video interface2](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/8013ee92-9159-45a7-8b91-d26e98a93b01)
+
+## Login system
+![login system](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/d4b9f7c5-d516-4c15-bc2a-711ebd036451)
+![register accout](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/44d55a02-15bc-4b5b-8cc3-07c99feecc76)
+![register accout2](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/1045fa6f-4083-4583-a0aa-ff59b6dbb9f1)
+![image](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/86d7de8e-ffce-4e24-896b-35fdba59b751)
+![register accout3](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/eec96eb2-0178-4797-bcc8-c9f062a8ca23)
+![register accout4](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/2ed6f3d5-f8ee-4dbb-b51b-7fae87499cf0)
+
+## Account setup - change icon and username
+![acct setting](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/78a1dc15-bd28-40ec-9f39-5306a472d871)
+![acct setting3](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/e1646b06-3018-485a-8a52-1224d91770da)
+![acct setting4](https://github.com/TomYYHong/Swift---Final-year-project/assets/56811243/8d6f8455-b0be-4e2f-8152-c99d18563441)
